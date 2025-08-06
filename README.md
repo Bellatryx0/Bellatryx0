@@ -15,6 +15,10 @@ Hi, I’m Bellatryx. I work a kinda crappy factory job but I’m learning to cod
 - Cute command-line calculator (WIP)  
 - More tiny Java things to come...
 
+🖤 Likes:
+- Games (Outer Wilds's the bestest)
+- Music (Tpab's the bestest²)
+- Anime (Monogatari series's the bestest³)
 
 💡 Fun fact:  
 Anne Frank was a magical girl in *Madoka Magica*. Yes, really.
